@@ -38,3 +38,5 @@ The experiments were conducted using `System.nanoTime()` to measure execution ef
 
 ## 5. Performance Analysis
 * **Algorithm Efficiency:** In the small dataset (Size 10), Insertion Sort actually performed faster than Merge Sort due to the lower
+<img width="1920" height="1033" alt="Снимок экрана (1)" src="https://github.com/user-attachments/assets/cc351d28-22e9-404f-a917-20edf30a1be1" />
+
