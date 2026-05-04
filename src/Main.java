@@ -22,7 +22,6 @@ public class Main {
             System.out.println("Insertion: " + t1 + " ns");
             System.out.println("Merge: " + t2 + " ns");
             System.out.println("Binary Search: " + t3 + " ns");
-            System.out.println("-----------------");
         }
     }
 }
